@@ -11,6 +11,4 @@ Changes made: Joseph Yasmeh simplified the settings and added code to automatica
 
 Changes made: Joseph converted the dictionary into a .bdic file that Anki can read. As far as I'm aware, this is the first time such a file is publicly available.
 
-
-
-The works above were used under a GPL license. 
+The works above were used under a GPL license and with permission of respective authors. 
