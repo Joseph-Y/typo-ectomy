@@ -1,5 +1,5 @@
 # typo-ectomy
-English and medical spellchecker for Anki flashcard software.
+English and medical spellchecker for Anki flashcard software. Download <a href=https://ankiweb.net/shared/info/190806271>here</a>, to ensure folder names are set up correctly during installation. 
 
 **Credit**
 
