@@ -15,7 +15,6 @@
 #
 #License
 #GNU GPL, version 3 or later; http://www.gnu.org/copyleft/gpl.html
-#This file was shared privately among Joseph's peers. Do not share this file on AnkiWeb or social media.
 ################################################################################
 
 # Add names of dictionary files here.
