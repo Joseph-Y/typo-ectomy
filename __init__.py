@@ -85,7 +85,8 @@ from aqt import mw
 TargetFolder = os.path.join(mw.pm.base)
 
 #Appends two folder names to the Addons folder path, locating the folder we want to move.
-File = os.path.join(TargetFolder, 'addons21', '913929891', 'dictionaries')
+#190806271 is the add-on folder's name, assigned by Anki given its add-on code. Double check this for derivative works.
+File = os.path.join(TargetFolder, 'addons21', '190806271', 'dictionaries')
 MissionComplete = os.path.join(TargetFolder, 'dictionaries', 'Medicine.bdic')
 
 #Sets up some pathways to rename an old folder if it exists. For the second condition explained below.
